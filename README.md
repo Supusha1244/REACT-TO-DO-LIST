@@ -1,12 +1,32 @@
-# React + Vite
+# 📝 My To-Do List App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and colorful React To-Do List application with task pinning, productivity tracking, and an elegant UI — built using **React** and **Tailwind CSS**.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📸 Screenshot
 
-## Expanding the ESLint configuration
+![App Preview](./Screenshot.png)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## ✨ Features
+
+- ✅ Add tasks with title, description, and category
+- 📌 Pin important tasks
+- 🧠 Completion tracking with a productivity score
+- 🎨 Beautiful task cards with pastel colors
+- 💾 Data stored in LocalStorage
+- ⚡ Responsive layout with Tailwind CSS
+- 🌗 Toggle between Light and Dark Mode with a single click
+- ℹ️ Info button to explain task categories (Work, Personal, Study, Others)
+  
+---
+
+## 🚀 Getting Started
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/yourusername/my-todo-list
+cd my-todo-list
