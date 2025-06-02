@@ -1,4 +1,4 @@
-# 📝 My To-Do List App
+# 📝 My To-Do List 
 
 A modern and colorful React To-Do List application with task pinning, productivity tracking, and an elegant UI — built using **React** and **Tailwind CSS**.
 
@@ -22,7 +22,12 @@ A modern and colorful React To-Do List application with task pinning, productivi
 - ℹ️ Info button to explain task categories (Work, Personal, Study, Others)
   
 ---
+## 🎥 Live Demo
 
+Watch the live demo:  
+[![Watch Video](DEMO.gif)
+
+---
 ## 🚀 Getting Started
 
 ### 1. Clone the Repository
