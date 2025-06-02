@@ -25,7 +25,7 @@ A modern and colorful React To-Do List application with task pinning, productivi
 ## 🎥 Live Demo
 
 Watch the live demo:  
-[![Watch Video](DEMO.gif)
+[![Watch Video](Demo.gif)
 
 ---
 ## 🚀 Getting Started
